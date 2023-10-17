@@ -1,4 +1,4 @@
-# MaxiMiner
+# *MaxiMiner*
 
 GMiner was created by a Russian group of specialists in the field of high performance computing and cryptography.<br/>
 The first version of GMiner was released on September 21, 2018 and was received quite warmly among users.<br/>
